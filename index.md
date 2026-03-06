@@ -9,4 +9,4 @@ I like to eat japanese food like sushi!
 And I like hanging out with my friends at university! 
 I'm from Thailand, and over the winter break I went back to Thailand to spend time with my family for chinese new year.
 My instagram username is @_mya.mo and my GitHub username is mya88165 
-My GitHub profile page is [here] (https://github.com/mya88165)
+My GitHub profile page is [here](https://github.com/mya88165)
